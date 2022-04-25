@@ -1,7 +1,7 @@
 ## Mechanical Web Page
 
 ### My mechanical skillset includes:
-- Babysit
+- Babysitting
 - Drinking coffee quickly
 - Spending $$$ 
 - Getting 5 stars on just dance
