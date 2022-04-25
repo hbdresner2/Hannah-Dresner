@@ -1,3 +1,3 @@
 # About Hannah Dresner
 
-[Mechanical Page] (hbdresner2/Hannah-Dresner/mechanical.md)
+[Mechanical Page] (hbdresner2/Hannah-Dresner/mechanical.html)
