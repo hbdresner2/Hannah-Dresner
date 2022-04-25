@@ -1,2 +1,2 @@
 ## Mechanical Web Page
-![alt image] = bio book image.jpg
+![Picture of Hannah Dresner](bio book image.jpg)
